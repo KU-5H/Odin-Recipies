@@ -6,7 +6,7 @@ This is a simple HTML-based recipe website that allows you to share and explore 
 
 - [Features](#features)
 - [Demo](#demo)
-- 
+
 ## Features
 
 - **Browse Recipes:** Explore a select range of recipes.
