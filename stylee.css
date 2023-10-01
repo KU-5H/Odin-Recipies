@@ -56,3 +56,25 @@ h4 {
 
 }
 
+.Ingredients{
+    border: 2px solid white ;
+    background-color: black;
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+}
+
+ul, ul li, .Ingredients h4 {
+    background-color: black;
+}
+
+.titletext {
+    text-align: center;
+    width: 500px;
+    background-color: rgb(250,235,215);
+    color: #252525;
+    border: 2px solid white;
+    margin: auto;
+    margin-top: 15px;
+    padding: 20px 10px;
+}
