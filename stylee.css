@@ -34,6 +34,8 @@ h2 {
 
 .Description {
     text-align: center;
+    width: 1800px;
+    margin: auto;
 }
 
 h4 {
@@ -61,6 +63,7 @@ h4 {
     background-color: black;
     width: 1000px;
     margin: auto;
+    margin-top: 30px;
     padding: 10px;
 }
 
@@ -77,4 +80,16 @@ ul, ul li, .Ingredients h4 {
     margin: auto;
     margin-top: 15px;
     padding: 20px 10px;
+}
+
+
+.Steps {
+    width: 1500px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.stepstitle {
+    padding-left: 23px;
 }
