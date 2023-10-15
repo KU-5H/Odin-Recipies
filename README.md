@@ -20,3 +20,6 @@ You can check out the live demo of the website [here](#).
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own purposes. We appreciate attribution if you find this project helpful for your own endeavors.
+
+## Website
+You can view the project here: https://ku-5h.github.io/Odin-Recipies/
